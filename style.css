@@ -1,0 +1,50 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    
+} 
+.blackbox{
+     min-height: 40vh;
+    min-width:10vh; 
+
+    
+    background-color: black;
+    justify-content: center;
+    align-items: center;  
+    text-align: center;  
+ display: flex; 
+ flex-direction: row; 
+ flex-wrap: wrap; 
+ 
+    
+    
+    
+}
+h1{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 800;
+    margin-top: 50px;
+}
+h6{
+     text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 800;
+    margin-top: 10px;
+
+
+}
+.img1{
+    margin-left: 15px;
+    margin-top: 15px;
+    display: flex; 
+ flex-direction: row; 
+ flex-wrap: wrap;
+    
+    
+border: 1px solid white;
+
+}
+
+
